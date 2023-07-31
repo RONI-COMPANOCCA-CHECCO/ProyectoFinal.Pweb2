@@ -1,17 +1,17 @@
 <div align="center">
-<table>
-    <theader>
+<theader>
         <tr>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
+            <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffips.unsa.edu.pe%2Fingenieriadesistemas%2Fwp-content%2Fuploads%2Fsites%2F2%2F2019%2F06%2FBases-Feria-de-Proyectos.pdf&psig=AOvVaw2wp4Brqf3Tu-wnV8RqZwA3&ust=1690905076015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjB7dKmuYADFQAAAAAdAAAAABAE" alt="EPIS" style="width:50%; height:auto"/></td>
             <th>
                 <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
                 <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
                 <span style="font-weight:bold;">DEPARTAMENTO ACADÉMICO DE INGENIERÍA DE SISTEMAS E INFORMÁTICA</span><br />
                 <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
             </th>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
+            <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AABET_logo.svg&psig=AOvVaw21yq8hpk0p8AVpfMPLKuGo&ust=1690905135363000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND0yuymuYADFQAAAAAdAAAAABAE" alt="ABET" style="width:50%; height:auto"/></td>
         </tr>
-    </theader>
+</theader>
+<table>
     <tbody>
         <tr><td><span style="font-weight:bold;">Aprobación</span>:  2023/02/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
@@ -51,8 +51,6 @@
 </<tr>
 </tdbody>
 </table>
-
-# Django
 
 [![License][license]][license-file]
 [![Downloads][downloads]][releases]
