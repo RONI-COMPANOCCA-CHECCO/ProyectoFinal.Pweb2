@@ -13,16 +13,10 @@
         </tr>
     </theader>
     <tbody>
-        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio</td></tr>
         <tr><td><span style="font-weight:bold;">Aprobación</span>:  2023/02/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
-
-<div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-</div>
-
 
 <table>
 <theader>
@@ -30,28 +24,13 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Django - Usando una plantilla para ver Destinos Turísticos</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Proyecto final</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>06</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>Proyecto Final</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>12-Jun-2023</td><td>FECHA FIN:</td><td>16-Jun-2023</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA INICIO::</td><td>25-Jul-2023</td><td>FECHA FIN:</td><td>05-Ago-2023</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
-<tr><td colspan="6">RECURSOS:
-    <ul>
-        <li>https://www.w3schools.com/python/python_reference.asp</li>
-        <li>https://docs.python.org/3/tutorial/</li>
-        <li>https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Models</li>
-        <li>https://tutorial.djangogirls.org/es/django_models/</li>
-        <li>https://pear.php.net/manual/en/standards.php</li>
-        <li>https://docs.djangoproject.com/en/4.0/</li>
-        <li>https://www.youtube.com/watch?v=M4NIs4BM1dk</li>
-        <li>https://pypi.org/</li>
-        <li>https://pip.pypa.io/en/latest/user_guide/</li>
-        <li>https://packaging.python.org/en/latest/tutorials/installing-packages/</li>
-    </ul>
-</td>
-</<tr>
 <tr><td colspan="6">DOCENTE:
 <ul>
 <li>Ing. Anibal Sardon</li>
@@ -66,7 +45,7 @@
 </<tr>
 <tr><td colspan="6">LINK REPOSITORIO:
 <ul>
-<li>https://github.com/RONI-COMPANOCCA-CHECCO/Laboratorio6Pweb2</li>
+<li>https://github.com/RONI-COMPANOCCA-CHECCO/ProyectoFinal.Pweb2</li>
 </ul>
 </td>
 </<tr>
